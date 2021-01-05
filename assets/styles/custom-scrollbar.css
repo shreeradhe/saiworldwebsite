@@ -1,0 +1,13 @@
+#amenities ul::-webkit-scrollbar {
+  	width: 4px;
+}
+
+/* Track */
+#amenities ul::-webkit-scrollbar-track {
+  	background: #eeeeee;
+}
+
+/* Handle */
+#amenities ul::-webkit-scrollbar-thumb {
+	background: #444;
+}
